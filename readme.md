@@ -6,7 +6,7 @@
 ![header](https://capsule-render.vercel.app/api?height=400&text=HOME!)
 
 
-<img src="/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG"  width="700" height="370">
+
 
 ![5edb029136eb08124449](https://user-images.githubusercontent.com/110292164/207839444-c13b8158-2e56-45a2-a87d-31465ead3421.gif)
 
